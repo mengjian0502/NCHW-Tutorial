@@ -22,13 +22,13 @@ Apart from the homework assignments published on Canvas, this document will keep
 
 ## Table of Content:
 
-- Pytorch installation
+- [Pytorch installation](https://github.com/mengjian0502/NCHW-Tutorial#pytorch-installation)
   - Python environment setup
 
-- Access Google Colab
+- [Access Google Colab](https://github.com/mengjian0502/NCHW-Tutorial#access-google-colab)
   - Import Python dependencies 
   - Execute `.ipynb` file
-- Useful functions for homework assignments
+- [Useful functions for homework assignments](https://github.com/mengjian0502/NCHW-Tutorial#useful-functions-for-homework-assignments)
 
 
 
